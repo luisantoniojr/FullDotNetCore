@@ -10,7 +10,7 @@ CRUD for vendors and products.
 Fornecedor (Vendor)
 Produto (Product)
 
-## First stage
+## First project
 
 Create a Web App where you can manage the bound context listed above.
 
@@ -21,26 +21,26 @@ Test Unit
 EF
 AutoMapper
 
-## Second stage
+## Second project
 
 Create a Web Api, where data will be consumed by a frontend builded with angular.
 The frontend must have the same functionality of the web app.
 
-## Third stage
+## Third project
 
 Make a mobile app using react native for consume from web api.
 
-## Fourth stage
+## Fourth project
 
 CI/CD on linux server above project, using docker.
 
-## Fifth stage
+## Fifth project
 
 Join the Web app and the Web Api in a micro service solution, but must implement:
 
 Clean architecture.
 Message queue.
 
-## Sixth stage
+## Sixth project
 
 CI/CD on linux server for the micro service project above, using docker.
