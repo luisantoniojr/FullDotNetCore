@@ -16,10 +16,13 @@ Create a Web App where you can manage the bound context listed above.
 
 The web app must be created with all those tecnologies:
 
+Net Core
 DDD
 Test Unit
 EF
 AutoMapper
+FluentValidation
+Identity
 
 ## Second project
 
